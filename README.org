@@ -1,0 +1,4 @@
+emacs
+=====
+
+Ma Nan's emacs configuration file.
